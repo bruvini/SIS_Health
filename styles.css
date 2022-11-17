@@ -1,0 +1,18 @@
+
+
+:root{
+    --cor-principal: (#ff7312);
+    --cor-secundaria: (#000000);
+    --fonte-principal: "Raleway";
+    --cor-de-fundo: (#faaf4a);
+}
+
+body{
+    margin: 0;
+	padding: 0;
+    background-color: #17e3d293;
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+}

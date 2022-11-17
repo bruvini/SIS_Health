@@ -1,0 +1,91 @@
+.inicio {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.logo {
+    width: 40%;
+    margin-left: 30%;
+}
+
+.parte1 {
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background: white;
+
+    /* offset-x | offset-y | blur-radius | spread-radius | color */
+    box-shadow: 2px 2px 5px 5px rgba(0, 0, 0, 0.2);
+
+    width: 80%;
+    margin: 73px 0 0 50px;
+}
+
+.login__rotulo {
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 15%;
+}
+
+.login__input {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 4px;
+    margin: 5px 0 10px 15%;
+    width: 70%;
+}
+
+.botao__login,
+.botao__cad {
+    background: #164ed9;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 40%;
+    
+}
+
+.botao__login {
+    margin: 2% 0 5% 30%;
+}
+
+.botao__cad{
+    margin: 2% 0 5% 34%;
+}
+
+.botao__login:hover, .botao__cad:hover{
+    background: #1788E3;
+    border: 1px solid transparent;
+}
+
+.texto__acesso {
+    margin: 0 0 0 22%;
+    font-weight: 700;
+}
+
+.texto__cad{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 8%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.texto__link:hover{
+    color: #16D991
+}
+
+.acesso {
+    background: rgba(23, 136, 227, 0.22);
+    border-radius: 10px;
+    padding: 20px;
+    width: 70%;
+    margin: 10% 0 5% 10%;
+}
+
+.mensagem{
+    text-align: center;
+    margin-top: 40%;
+}

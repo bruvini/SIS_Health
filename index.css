@@ -95,6 +95,27 @@ a {
         grid-template-columns: 35% 65%;
     }
 
+    .bloco{
+        margin-right: 8px;
+    }
+
+    .logos{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        justify-content: space-between;
+        padding: 10px;
+        align-items: center;
+    }
+
+    .logo{
+        margin-left: 30%;
+        text-align: center;
+    }
+
+    .sjp{
+        width: 50px;
+    }
+
     .parte1 {
         margin-top: 15%;
         margin-left: 20%;

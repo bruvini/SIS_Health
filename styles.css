@@ -10,7 +10,9 @@
 body{
     margin: 0;
 	padding: 0;
-    background-color: #17e3d293;
+    background-image: url(/img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;

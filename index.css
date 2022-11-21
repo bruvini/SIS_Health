@@ -90,20 +90,21 @@ a {
     margin: 10% 0 5% 10%;
 }
 
-.mensagem {
+.parte2 {
     display: none;
     text-align: center;
     margin-top: 40%;
+}
+
+body{
+    background-image: url(/img/bg_virado.jpg);
+    background-size: 100%;
 }
 
 @media screen and (min-width: 1024px) {
     .inicio {
         display: grid;
         grid-template-columns: 35% 65%;
-    }
-
-    .bloco{
-        margin-right: px;
     }
 
     .logos{
@@ -124,8 +125,9 @@ a {
     }
 
     .parte1 {
-        margin-top: 15%;
-        margin-left: 20%;
+        margin-top: 25%;
+        margin-left: 100%;
+        height: 450px;
     }
 
     .botao__cad {
@@ -150,7 +152,17 @@ a {
         margin-left: 3%;
     }
 
-    .mensagem {
+    .parte2 {
         display: block;
+        margin: 0 0 0 30%;
+    }
+
+    .imagem{
+        width: 55%;
+        padding: 30px;
+    }
+
+    body{
+        background-image: url(/img/bg.jpg);
     }
 }

@@ -2,9 +2,9 @@
 ![Logo](https://ibb.co/5vNqHqZ)
 
 
-# SIS_Health
+# ATIPO
 
-O Portal SIS_Health surgiu da necessidade de criar sistemas intuitivos para uso na Atenção Primária à Saúde, de forma que facilitasse aos profissionais de saúde à preencherem dados relevantes para a vigilância em saúde, sem ocupar muito do tempo mas que ainda assim fornecesse dashboards poderosos.
+O Portal ATIPO (Acrônimo para Acompanhamento Total Integrado, Prático e Otimizado) surgiu da necessidade de criar sistemas intuitivos para uso na Atenção Primária à Saúde, de forma que facilitasse aos profissionais de saúde à preencherem dados relevantes para a vigilância em saúde, sem ocupar muito do tempo mas que ainda assim fornecesse dashboards poderosos.
 
 ## Objetivos
 

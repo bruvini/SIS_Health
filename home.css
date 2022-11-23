@@ -1,0 +1,66 @@
+.cabecalho {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 20%;
+    margin: -60px 0 0 40%;
+    text-align: center;
+}
+
+.cabecalho__infos {
+    background-color: #5BD9B5;
+    display: grid;
+    grid-template-columns: 90% 10%;
+    text-align: center;
+    font-size: 12px;
+    padding: 5px 0;
+}
+
+.cabecalho__array {
+    border-right: 1px solid black;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.cabecalho__sair {
+    color: black;
+    text-decoration: none;
+}
+
+.cabecalho__sair:hover {
+    background-color: #BBF2E8;
+    font-weight: 700;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+
+.botao {
+    text-align: center;
+    border: 1px solid #5BD9B5;
+    border-radius: 10px;
+    background: #BBF2E8;
+    padding: 10px;
+    width: 20%;
+    text-decoration: none;
+    color: #6CD9CE;
+    font-weight: 600;
+}
+
+.botao:hover{
+    box-shadow: inset 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    background: #5BD9B5;
+    color: white;
+}
+
+.botao__logo {
+    width: 100px;
+}
+
+.botao__titulo{
+    margin: 15px 0;
+}
